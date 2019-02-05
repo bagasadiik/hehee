@@ -1,8 +1,8 @@
 <?php 
-$account = "08xxxxxxxxxx"; // nomor ovo
-$access = "cbax99xxxx9xxxxx"; // access ovo
+$account = "081380207723"; // nomor ovo
+$access = "4ea4e8bc7066434794361ae3afacc3231c584642"; // access ovo
 $amount = 1; // jumlah tf (bisa rp1)
-$transfer_to = "08xxxxxxxxxx"; // nomor ovo tumbal
+$transfer_to = "081311776262"; // nomor ovo tumbal
 
 $max=100; //akan otomatis close apabila sudah max
 
